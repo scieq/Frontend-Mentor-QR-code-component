@@ -45,8 +45,3 @@ body {
 .text p{
     color: hsl(220, 15%, 55%);
 }
-
-footer {
-    display: flex;
-    justify-content: flex-end;
-}
